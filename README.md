@@ -1,4 +1,4 @@
-CryptoZombies DApp - Midterm Project
+CryptoZombies DApp 
 
 -------------------------------------------------------
 Project Overview:
